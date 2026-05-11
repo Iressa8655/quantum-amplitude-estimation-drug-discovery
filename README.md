@@ -2,13 +2,13 @@
 ## 藥物有效性量子振幅估計
 
 **Demonstrates my quantum computing and Bayesian inference proficiency for UCLA Elite Programme interview**  
-**展示我對 UCLA 精英項目面試的量子計算與貝氏推斷技能**
+**展示量子計算與貝氏推斷技能**
+for UCLA 精英項目面試
 
 ---
 
 ## Purpose | 目的
 
-我建立這個項目來展示我的能力：
 - **Write quantum circuits** using Qiskit (superposition, entanglement, measurement)
 - **Implement Quantum Amplitude Estimation** (phase estimation algorithm)
 - **Connect quantum algorithms to Bayesian inference** (estimating posterior probabilities)
